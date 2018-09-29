@@ -9,7 +9,7 @@
  * @robertsilver2
  */
 
-#include <iostream>
+#include <iostream>coo
 #include "binarysearch.h"
 using edu::vcccd::vc::csv15::binarysearch;
 

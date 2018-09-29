@@ -1,7 +1,7 @@
 /**
  * CS V15 Data Structures and Algorithms
  * CRN: 70342
- * Assignment: ex01-linearsearch
+ * Assignment: ex02-binarysearch
  *
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
